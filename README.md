@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="INZWlR8IKzHPVrtHU8I3MwWe0wlJw11Ikp3vzXLvA8s" />
+
 # My Alexa Skills and Related Projects
 
 I am working on a number of other skills for Alexa, that I will host for developers on GitHub, in addition to eventual skill publication if possible. Right now there are two skills in progress, so you can subscribe to "announcements" on the forum page to find out when they are released. Click the links below for an overview of what each one will be, and feel free to make development suggestions in the forum here, or via the Github page for the project. I also have a finished project that interfaces with Alexa, but is not a skill.
