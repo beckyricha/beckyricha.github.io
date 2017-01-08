@@ -6,7 +6,7 @@ Coming Soon: <a href='https://beckyricha.github.io/alexa-text-messenger/'>Alexa 
 
 Coming Soon: <a href='alexa-notifications'>Custom Notifications</a> - Users set up any sort of notifications they want via IFTTT, and send then to Google Drive. This skill will manage and read them as a custom notification feed. 
 
-<a href='https://beckyricha.github.io/alexa-gmail/'>"My Email"</a> A published Amazon Echo skill, also hosted on GitHub for those who wish to modify it for hteir own use.
+<a href='https://beckyricha.github.io/alexa-gmail/'>"My Email"</a> A <a href='https://www.amazon.com/R-Onuschak-my-email/dp/B01NAK87B2'>published Amazon Echo skill</a>, also hosted on GitHub for those who wish to modify it for hteir own use.
 
 <a href='https://beckyricha.github.io/Broadlink-RM-SmartThings-Alexa/'>Broadlink for Alexa</a> - Existing completed project, but not an Alexa skill. Uses SmartThings and an inexpensive hub device to link Alexa to your existing remote controlled devices (total project cost ~$35 - $50, plus intermediate IT skills).
 
